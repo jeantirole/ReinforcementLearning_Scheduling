@@ -1,11 +1,11 @@
-# APS_beta
+# ReinforcementLearning_Scheduling
  
 
 
-## 목적
+## Objective
 강화 학습을 이용하여, 납기일 준수 및 셋업최소화를 위한 공정 스케줄링 최적화
 
-## reference
+## Reference
  - 논문 : <https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201925462479137&dbt=NART>
  - 자료 : <https://hwk0702.github.io/projects/2019/11/08/Scheduler/>
 
