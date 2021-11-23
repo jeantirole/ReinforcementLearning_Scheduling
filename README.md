@@ -1,9 +1,11 @@
-# APS_beta 
+# APS_beta
+ 
 
-## 프로젝트 목적
+
+## 목적
 강화 학습을 이용하여, 납기일 준수 및 셋업최소화를 위한 공정 스케줄링 최적화
 
-## Reference
+## reference
  - 논문 : <https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201925462479137&dbt=NART>
  - 자료 : <https://hwk0702.github.io/projects/2019/11/08/Scheduler/>
 
@@ -31,6 +33,10 @@
  - Train loss
  ![image](https://user-images.githubusercontent.com/78070883/112933744-66579780-915b-11eb-884a-3fda1051ee35.png)
 
+
+
+
+
 ## Model test
  - model.h5 : 이전의 학습을 통해서 생성된 모델 저장파일
  - model_test.ipynb : 이전의 학습된 모델을 불러와서, 해당 모델을 기반으로 test 데이터셋에 대해서 최적배치 예측
@@ -39,6 +45,10 @@
 ## 기타 자세한 사항들
  - APS_Beta_Report(03-05).pptx 첨부
   
+  
+KSETEC 홈페이지: <http://kstec.co.kr/>   
+   
+ 
       
-Author: 박재완, 조현우     
-Last edited: 10-11-2021
+Author: KSTEC 연구원 박재완, 조현우     
+Last edited: 30-03-2021
